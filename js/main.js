@@ -6,7 +6,7 @@
  * 
  *  Name: Gaurav Saini   Student ID: 113460190   Date: Friday, February 2, 2024
  * 
- *  Cyclic link: 
+ *  Cyclic link: https://sore-rose-moth-belt.cyclic.app
  **********************************************************************************/
 document.addEventListener('DOMContentLoaded', function () {
     let page = 1;
